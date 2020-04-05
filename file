@@ -1,4 +1,5 @@
 module.exports = {
   x: 2,
-  y: 5
+  y: 5,
+  z: 1
 }
